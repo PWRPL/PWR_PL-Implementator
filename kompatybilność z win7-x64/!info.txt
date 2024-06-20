@@ -1,0 +1,1 @@
+Aby móc uruchomić implementator spolszczenia PWR_PL w systemie operacyjnym Windows 7 x64 bez zainstalowanego środowiska wykonawczego .NET Runtime 8.0, wtedy należy skopiować bibliotekę "api-ms-win-core-winrt-l1-1-0.dll" do folderu z plikiem "Zainstaluj_PWR_PL.exe".
