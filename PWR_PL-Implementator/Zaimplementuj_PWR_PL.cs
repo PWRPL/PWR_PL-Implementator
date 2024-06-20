@@ -20,6 +20,7 @@ using System.ComponentModel.Design.Serialization;
 using System.Collections;
 using Microsoft.Win32;
 
+
 // ReSharper disable All
 
 namespace PWR_PL_Implementator
